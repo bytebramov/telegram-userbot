@@ -2,6 +2,8 @@
 *.session
 *.session-journal
 chats.json
+chats_*.json
+accounts.json
 __pycache__/
 .venv/
 *.py[cod]

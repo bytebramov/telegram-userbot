@@ -1,0 +1,14 @@
+[
+  {
+    "name": "acc1",
+    "api_id": 12345678,
+    "api_hash": "your_api_hash_here",
+    "session": "acc1"
+  },
+  {
+    "name": "acc2",
+    "api_id": 12345678,
+    "api_hash": "your_api_hash_here",
+    "session": "acc2"
+  }
+]
